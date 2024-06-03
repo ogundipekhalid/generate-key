@@ -1,0 +1,14 @@
+C:\Users\DELL\source\OgunFold\GernaratKey\bin\Debug\net8.0\GernaratKey.exe
+C:\Users\DELL\source\OgunFold\GernaratKey\bin\Debug\net8.0\GernaratKey.deps.json
+C:\Users\DELL\source\OgunFold\GernaratKey\bin\Debug\net8.0\GernaratKey.runtimeconfig.json
+C:\Users\DELL\source\OgunFold\GernaratKey\bin\Debug\net8.0\GernaratKey.dll
+C:\Users\DELL\source\OgunFold\GernaratKey\bin\Debug\net8.0\GernaratKey.pdb
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\GernaratKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\GernaratKey.AssemblyInfoInputs.cache
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\GernaratKey.AssemblyInfo.cs
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\GernaratKey.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\GernaratKey.dll
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\refint\GernaratKey.dll
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\GernaratKey.pdb
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\GernaratKey.genruntimeconfig.cache
+C:\Users\DELL\source\OgunFold\GernaratKey\obj\Debug\net8.0\ref\GernaratKey.dll
